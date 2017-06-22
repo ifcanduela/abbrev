@@ -1,0 +1,21 @@
+{
+    "name": "ifcanduela/abbrev",
+    "description": "Create unambiguous abbreviations for words in a list",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Igor F. Canduela",
+            "email": "ifcanduela@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^6.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "ifcanduela\\abbrev\\": "./"
+        }
+    }
+}
